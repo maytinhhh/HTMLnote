@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+/*chua <title> :
+- chua Tieu de
+-hien khi dua vao muc yeu thich
+-hien thi trong cong cu tim kiem
+vd:<head><title>Mot Tieu de</title></head>
+,<style>,
+<meta>: mo ta 
+,<link>,<script>,<noscript>,<base>
+*/
+<style>
+</style>
+</head>
+<body>
+<h1> Thiet ke website</h1>
+<p> Day la trang web dau tien</p>
+</body>
+</html>
+
+-html basic
++Tags
+<a href = specified.link>Phan chu hien thi</a>
+<img src alt width height>'
+src : source file, alt: neu hien loi,width rong, height dai
++Empty elements ngoai ten the khong co bat cu noi dung gi va khong co the dong
