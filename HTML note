@@ -28,3 +28,4 @@ src : source file, alt: neu hien loi,width rong, height dai
 +Attribute trong the
 <hr>, <br>,
 <pre> preserve origin text form, khong bi dinh dang lai nhu the <p>
++Style attribute chinh property cho mot the
